@@ -1,6 +1,9 @@
 {
   "attributes": [
-   "homepage": "https://www.universalmusic.com/"
+  {
+    "trait_type": "Homepage",
+    "value": "https://www.universalmusic.com/"
+  }
   ], 
   "description": "IT Team - version 1.1", 
   "image": "https://raw.githubusercontent.com/sitekeymetric/nft-it-staff/main/assets/v1/user2.png", 
