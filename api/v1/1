@@ -2,7 +2,9 @@
   "attributes": [
    
   ], 
-  "description": "Project Manager <a href='http://www.google.com'>google</a>", 
+  "description": "Project Manager", 
   "image": "https://raw.githubusercontent.com/sitekeymetric/nft-it-staff/main/assets/v1/user1.png", 
-  "name": "Project Manager"
+  "name": "Project Manager",
+  "youtube_url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "external_url":"https://www.universalmusic.com/"
 }
