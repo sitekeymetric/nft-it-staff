@@ -2,7 +2,7 @@
   "attributes": [
    
   ], 
-  "description": "Project Manager http://www.google.com", 
+  "description": "Project Manager <a href='http://www.google.com'>google</a>", 
   "image": "https://raw.githubusercontent.com/sitekeymetric/nft-it-staff/main/assets/v1/user1.png", 
   "name": "Project Manager"
 }
