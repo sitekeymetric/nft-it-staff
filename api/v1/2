@@ -1,8 +1,9 @@
 {
   "attributes": [
-   
+   "homepage": "external_url": "https://www.universalmusic.com/"
   ], 
   "description": "IT Team - version 1", 
   "image": "https://raw.githubusercontent.com/sitekeymetric/nft-it-staff/main/assets/v1/user2.png", 
-  "name": "Business Analyst 1"
+  "name": "Business Analyst 1",
+  "external_url": "https://www.universalmusic.com/"
 }
